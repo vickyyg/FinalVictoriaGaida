@@ -9,7 +9,7 @@ const Navegador = () => {
 
     <header>
       <Link to={"/"}>
-      <img className="imgGrow" src={imgGrow} alt="Logo Marolio" />
+      <img className="imgGrow" src={imgGrow} alt="Logo grow" />
       </Link>
       <ul>
         <li>
